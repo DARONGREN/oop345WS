@@ -1,2 +1,0 @@
-C:\Users\Administrator\source\repos\OOP345WS1\Debug\OOP345WS1.exe
-C:\Users\Administrator\source\repos\OOP345WS1\Debug\OOP345WS1.pdb
